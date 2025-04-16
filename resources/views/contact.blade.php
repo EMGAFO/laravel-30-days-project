@@ -1,7 +1,7 @@
 <x-layout>
     <x-slot:heading>
-       Contact Page 
+        Contact Page
     </x-slot:heading>
-    
-    <h1>Hello 😂 from contact page.</h1>
+
+    <h1>Hello from the Contact Page.</h1>
 </x-layout>
